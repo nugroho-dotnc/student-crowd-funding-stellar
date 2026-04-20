@@ -17,7 +17,7 @@ The catch? The funds are locked. The contract ensures that the creator can only 
 
 If you want to poke around or integrate the frontend, here's the current Testnet contract:
 
-**Contract ID**: `[paste-your-contract-id-here]`
+**Contract ID**: `CBQWJB4KHUSXWG5LJK27P65QIHIGBY5CK2Y7MYPGYMR4KBEJ7FZZZU56`
 
 ### Dashboard Preview
 *(A quick look at the UI state for the campaign)*
